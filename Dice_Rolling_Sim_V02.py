@@ -1,8 +1,8 @@
 #Program #4 - Dice Rolling Simulator
-#Dice_Rolling_Simulator_V0.1
+#Dice_Rolling_Simulator_V0.2
 from random import *
 
-print ('Welcome to Dice Rolling Sim v0.1 by a.webb')
+print ('Welcome to Dice Rolling Sim v0.2 by a.webb')
 print ('With this program, you will have the option to roll a 4, 6, 8, 10, 12 or 20 sided dice. The choice is yours...')
 
 while True:
